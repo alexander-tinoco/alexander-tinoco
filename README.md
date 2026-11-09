@@ -19,7 +19,7 @@ I am a **Full Stack Developer** and Software Engineering student at the Universi
 
 I work from the sensor to the dashboard: backend services and ETL in **Python** and **TypeScript**, web and mobile front ends, and IoT devices that talk to them. Every flagship project below ships with automated tests and CI, and most with metrics and error monitoring, because I treat a portfolio project as if someone had to operate it.
 
-I also build products of my own: **Plasticity**, management software for Mexican SMBs that is in development, and **Legatum Internacional**, a digital platform for an immigration advisory firm.
+I also build products of my own: **Plasticity**, management software for Mexican SMBs that is in development. Earlier this year I founded and launched **Legatum Internacional**, a digital platform for an immigration advisory firm (Jun to Sep 2026).
 
 <div align="center">
 <img src="assets/kpis.svg" alt="Key numbers: 1,300+ automated tests, 99% coverage on The Club, 4 hackathons, 2 app stores" width="100%">

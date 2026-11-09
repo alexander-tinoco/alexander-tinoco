@@ -19,7 +19,7 @@ Soy **Desarrollador Full Stack** y estudiante de Ingeniería en Desarrollo de So
 
 Trabajo del sensor al dashboard: servicios backend y ETL en **Python** y **TypeScript**, frontends web y móviles, y dispositivos IoT que se comunican con ellos. Cada proyecto principal de abajo tiene pruebas automatizadas y CI, y la mayoría métricas y monitoreo de errores, porque trato un proyecto de portafolio como si alguien tuviera que operarlo.
 
-También construyo productos propios: **Plasticity**, software de gestión para pymes mexicanas que está en desarrollo, y **Legatum Internacional**, una plataforma digital para una firma de asesoría migratoria.
+También construyo productos propios: **Plasticity**, software de gestión para pymes mexicanas que está en desarrollo. Este año fundé y lancé **Legatum Internacional**, una plataforma digital para una firma de asesoría migratoria (jun a sep 2026).
 
 <div align="center">
 <img src="assets/kpis.es.svg" alt="Cifras clave: más de 1,300 pruebas automatizadas, 99% de cobertura en The Club, 4 hackathones, 2 tiendas de apps" width="100%">

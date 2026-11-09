@@ -413,7 +413,7 @@ def build_timeline() -> None:
     edu = [(eb[0], 2023.67, 2025.67, BLUE), (eb[1], 2025.67, 2027.67, BLUE), (eb[2], 2024.0, 2026.0, VIOLET)]
     work = [("Blue Bird LLC", 2024.917, 2025.083, ORANGE), ("Jardinería Ornamental", 2025.083, 2025.583, GREEN),
             ("GMC Store", 2025.5, 2026.083, GOLD)]
-    proj = [("Legatum", 2026.43, 2026.63, "#2ea8a0"), ("Puertia", 2026.6, 2026.77, "#d2699b"), ("Plasticity", 2026.8, 2026.86, "#7c5cff")]
+    proj = [("Legatum", 2026.42, 2026.75, "#2ea8a0"), ("Puertia", 2026.6, 2026.77, "#d2699b"), ("Plasticity", 2026.8, 2026.86, "#7c5cff")]
     hacks = [("HACKDGO", 2024.25), ("HackMTY", 2024.8), ("TalentLand", 2025.2), ("HackMTY", 2025.8)]
     top = 118
     h = top + (len(edu) + len(work) + len(proj)) * 34 + 170

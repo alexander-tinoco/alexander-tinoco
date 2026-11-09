@@ -4,6 +4,8 @@
 
 <br>
 
+**English** · [Español](README.es.md)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexander--tinoco--sanchez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-tinoco-sanchez-1a45a4273)
 [![Location](https://img.shields.io/badge/Durango%2C%20M%C3%A9xico-161b22?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/alexander-tinoco)
 [![UTD](https://img.shields.io/badge/UTD-Software%20Engineering-161b22?style=for-the-badge&logo=academia&logoColor=white)](https://github.com/alexander-tinoco)
@@ -16,6 +18,8 @@
 I am a **Full Stack Developer** and Software Engineering student at the Universidad Tecnológica de Durango. I like systems where correctness matters: data pipelines that can be re-run without duplicating anything, APIs that keep an audit trail, money stored as integers, and statistics that say "nothing to report" instead of inventing a conclusion.
 
 I work from the sensor to the dashboard: backend services and ETL in **Python** and **TypeScript**, web and mobile front ends, and IoT devices that talk to them. Every flagship project below ships with automated tests and CI, and most with metrics and error monitoring, because I treat a portfolio project as if someone had to operate it.
+
+I also build products of my own: **Plasticity**, management software for Mexican SMBs that is in development, and **Legatum Internacional**, a digital platform for an immigration advisory firm.
 
 <div align="center">
 <img src="assets/kpis.svg" alt="Key numbers: 1,300+ automated tests, 99% coverage on The Club, 4 hackathons, 2 app stores" width="100%">
@@ -33,7 +37,7 @@ Idempotent loaders that consolidate messy sources into one relational model, wit
 </td>
 <td width="50%" valign="top">
 
-**Backend APIs**<br>
+**Backend APIs and platforms**<br>
 FastAPI, Express, Fastify and Spring Boot services with JWT auth, role-based access, encrypted secrets, rate limiting and concurrency-safe money handling.
 
 </td>
@@ -42,7 +46,7 @@ FastAPI, Express, Fastify and Spring Boot services with JWT auth, role-based acc
 <td valign="top">
 
 **Web and mobile**<br>
-Angular and React dashboards, Astro sites on Cloudflare, React Native and Flutter apps, including one published on Google Play and the App Store.
+Angular, React and Next.js apps, Astro sites on Cloudflare, React Native and Flutter apps, including one published on Google Play and the App Store.
 
 </td>
 <td valign="top">
@@ -60,6 +64,12 @@ ESP32 and Raspberry Pi devices over MQTT and WebSocket, plus AI assistants built
 <img src="assets/stack.svg" alt="Tech stack grouped by languages, backend, front end and mobile, data, DevOps, observability and IoT" width="100%">
 </div>
 
+## Plasticity
+
+*Private, in active development since October 2026.*
+
+Management software for Mexican small and medium businesses that **takes the shape of each business**. I am designing and building it end to end: product, backend, frontend, security and infrastructure. The details stay private for now, and I am happy to talk about it in an interview.
+
 ## Featured projects
 
 | Project | What it demonstrates | Stack |
@@ -69,7 +79,8 @@ ESP32 and Raspberry Pi devices over MQTT and WebSocket, plus AI assistants built
 | [**theclub-api**](https://github.com/alexander-tinoco/theclub-api) | Provably fair roulette engine: HMAC-SHA256 commit-reveal, a ledger-backed integer money model, the outbox pattern for Kafka and JWT refresh rotation. 220 tests, 99% coverage. | FastAPI · Kafka · PostgreSQL · Redis · Loki |
 | [**survey-analitics**](https://github.com/alexander-tinoco/survey-analitics) | Survey analysis that goes beyond percentages: chi-square and Cramér's V with FDR correction, k-means profiles checked against a permutation test, and plain-language findings. 383 tests, 98.6% coverage. | Django · DRF · Celery · Redis · PostgreSQL |
 | [**job**](https://github.com/alexander-tinoco/job) | Explainable résumé screening: every score carries the sentence it came from, and the ranking is computed in Python so a résumé cannot talk its way up. 415 tests. | FastAPI · React · PostgreSQL |
-| [**legatum-web**](https://github.com/alexander-tinoco/legatum-web) | Marketing site for an immigration advisory firm, at [legatum-internacional.com](https://www.legatum-internacional.com/): SEO and schema architecture, a lead-gen funnel and full Cloudflare setup. | Astro · Cloudflare Workers · Turnstile · Brevo |
+| [**legatum-web**](https://github.com/alexander-tinoco/legatum-web) | Site and growth system for an immigration advisory firm I founded, at [legatum-internacional.com](https://www.legatum-internacional.com/): 5 services, 11 blog posts, 4 interactive tools, 2 ad landing pages, a published SEO and schema architecture, a lead-gen funnel, a documented strategy audit (ads, keywords, CRO, WhatsApp) and the full Cloudflare setup. | Astro · Cloudflare Workers · Turnstile · Brevo |
+| **Puertia** *(private, practice project)* | Digital invitations platform: each invitation isolated in its own assets, components and data, with RSVP, QR check-in, photos on R2, email with Resend, k6 load tests (100 simultaneous RSVPs), SEO and legal audits, a runbook and ARCO data-rights endpoints. | Astro 7 · Fastify · PostgreSQL · Drizzle · Cloudflare |
 | [**nexobank-backend**](https://github.com/alexander-tinoco/nexobank-backend) and [**nexobank-mobile**](https://github.com/alexander-tinoco/nexobank-mobile) | A digital bank as a portfolio pair: append-only ledger and concurrency-safe transfers behind a Flutter app with live balance updates. | FastAPI · Celery · Flutter · WebSocket |
 | [**taxi-gymnasium**](https://github.com/alexander-tinoco/taxi-gymnasium) | Tabular Q-learning agent that solves Gymnasium's Taxi-v4 and replays its policy in pygame. | Python · Gymnasium · pygame |
 
@@ -83,14 +94,17 @@ ESP32 and Raspberry Pi devices over MQTT and WebSocket, plus AI assistants built
 <img src="assets/languages.svg" alt="Language share across public repositories: Python 56%, Astro 13%, TypeScript 12%, JavaScript 7%" width="100%">
 </div>
 
+*Public repositories only. Plasticity and Puertia are private and not counted.*
+
 ## Journey
 
 <div align="center">
-<img src="assets/timeline.svg" alt="Timeline of education, work experience and hackathons from 2023 to today" width="100%">
+<img src="assets/timeline.svg" alt="Timeline of education, work experience, projects and hackathons from 2023 to today" width="100%">
 </div>
 
 ### Experience
 
+- **Founder and developer, Plasticity** (Oct 2026 to present). Management software for Mexican SMBs, in development.
 - **Full Stack Developer, GMC Store** (Jul 2025 to Jan 2026). Access-control system: Spring Boot and Angular under Scrum, JWT with admin and employee roles, real-time WebSocket link to a Raspberry Pi that opens physical turnstiles from QR, barcode and RFID reads, PDF reports with JasperReports, and a React Native and Expo app published on Google Play and the App Store.
 - **Full Stack Developer, Jardinería Ornamental** (Feb to Jul 2025). Designed the architecture and built an Express and TypeScript API with JWT and role-based access, plus an ESP32 microcontroller with sensors that remotely controls a lawn mower over MQTT, a React Native control app and the company website.
 - **Full Stack Developer, Blue Bird LLC** (Dec 2024 to Jan 2025). Designed and built the company site with Astro, TypeScript and Tailwind, and handled hosting.
@@ -113,7 +127,7 @@ ESP32 and Raspberry Pi devices over MQTT and WebSocket, plus AI assistants built
 
 ## Right now
 
-I am working through a 2026 study roadmap of nine books, four certifications (including Databricks, Docker and Kubernetes, and GCP) and twelve applied projects. The tracker I built for it is public: [personal_strategy](https://github.com/alexander-tinoco/personal_strategy).
+I am building Plasticity and working through a 2026 study roadmap of nine books, four certifications (including Databricks, Docker and Kubernetes, and GCP) and twelve applied projects. The tracker I built for it is public: [personal_strategy](https://github.com/alexander-tinoco/personal_strategy).
 
 ## Let's connect
 

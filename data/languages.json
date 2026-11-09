@@ -1,19 +1,19 @@
 {
- "Python": 1826950,
+ "Python": 1849342,
+ "TypeScript": 378420,
+ "CSS": 132141,
+ "HTML": 66637,
+ "JavaScript": 224123,
  "Dockerfile": 16523,
+ "Makefile": 6965,
+ "Shell": 1475,
  "Mako": 2735,
+ "Astro": 417976,
  "Dart": 211398,
  "CMake": 9595,
  "C++": 6443,
  "Swift": 900,
  "C": 754,
  "Kotlin": 130,
- "Objective-C": 38,
- "Makefile": 6965,
- "HTML": 66637,
- "CSS": 132141,
- "JavaScript": 224123,
- "Astro": 417976,
- "TypeScript": 378420,
- "Shell": 1475
+ "Objective-C": 38
 }

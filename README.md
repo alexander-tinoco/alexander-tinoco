@@ -123,6 +123,8 @@ Management software for Mexican small and medium businesses that **takes the sha
 - **B.Eng. in Software Development**, Universidad Tecnológica de Durango (2025 to 2027, in progress)
 - **Higher University Technician in Information Technology**, Universidad Tecnológica de Durango (2023 to 2025)
 - **Oracle Next Education**, technical and soft skills program (2024 to 2025)
+- **AWS Certified AI Practitioner**, Amazon Web Services (Sep 2026, valid through Sep 2029)
+- **Google Cloud Fundamentals: Core Infrastructure**, Google (Sep 2026)
 - AWS Academy Cloud Foundations · Cisco Linux Essentials · From Relational Model to Mongo · Networking Academy Learn-A-Thon 2024
 
 ## Right now

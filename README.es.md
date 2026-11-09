@@ -123,6 +123,8 @@ Software de gestión para pequeñas y medianas empresas mexicanas que **toma la 
 - **Ingeniería en Desarrollo de Software**, Universidad Tecnológica de Durango (2025 a 2027, en curso)
 - **Técnico Superior Universitario en Tecnologías de la Información**, Universidad Tecnológica de Durango (2023 a 2025)
 - **Oracle Next Education**, programa de habilidades técnicas y blandas (2024 a 2025)
+- **AWS Certified AI Practitioner**, Amazon Web Services (sep 2026, vigente hasta sep 2029)
+- **Google Cloud Fundamentals: Core Infrastructure**, Google (sep 2026)
 - AWS Academy Cloud Foundations · Cisco Linux Essentials · From Relational Model to Mongo · Networking Academy Learn-A-Thon 2024
 
 ## Ahora mismo

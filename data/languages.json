@@ -1,0 +1,19 @@
+{
+ "Python": 1826950,
+ "Dockerfile": 16523,
+ "Mako": 2735,
+ "Dart": 211398,
+ "CMake": 9595,
+ "C++": 6443,
+ "Swift": 900,
+ "C": 754,
+ "Kotlin": 130,
+ "Objective-C": 38,
+ "Makefile": 6965,
+ "HTML": 66637,
+ "CSS": 132141,
+ "JavaScript": 224123,
+ "Astro": 417976,
+ "TypeScript": 378420,
+ "Shell": 1475
+}
